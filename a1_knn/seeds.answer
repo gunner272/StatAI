@@ -1,0 +1,257 @@
+Test run 0
+Results for Knn with k = 1
+Accuracy: 0.89898989899
+Confusion Matrix
+[[33  5  1]
+ [ 2 26  0]
+ [ 2  0 30]]
+
+Results for Knn with k = 2
+Accuracy: 0.89898989899
+Confusion Matrix
+[[36  2  1]
+ [ 3 25  0]
+ [ 4  0 28]]
+
+Results for Knn with k = 3
+Accuracy: 0.89898989899
+Confusion Matrix
+[[33  3  3]
+ [ 2 26  0]
+ [ 2  0 30]]
+Test run 1
+Results for Knn with k = 1
+Accuracy: 0.878787878788
+Confusion Matrix
+[[28  0  3]
+ [ 5 27  0]
+ [ 4  0 32]]
+
+Results for Knn with k = 2
+Accuracy: 0.858585858586
+Confusion Matrix
+[[29  0  2]
+ [ 5 27  0]
+ [ 7  0 29]]
+
+Results for Knn with k = 3
+Accuracy: 0.868686868687
+Confusion Matrix
+[[29  0  2]
+ [ 5 27  0]
+ [ 6  0 30]]
+Test run 2
+Results for Knn with k = 1
+Accuracy: 0.89898989899
+Confusion Matrix
+[[24  0  5]
+ [ 2 34  0]
+ [ 3  0 31]]
+
+Results for Knn with k = 2
+Accuracy: 0.878787878788
+Confusion Matrix
+[[27  0  2]
+ [ 5 31  0]
+ [ 5  0 29]]
+
+Results for Knn with k = 3
+Accuracy: 0.929292929293
+Confusion Matrix
+[[26  1  2]
+ [ 3 33  0]
+ [ 1  0 33]]
+Test run 3
+Results for Knn with k = 1
+Accuracy: 0.858585858586
+Confusion Matrix
+[[29  0  6]
+ [ 4 24  0]
+ [ 4  0 32]]
+
+Results for Knn with k = 2
+Accuracy: 0.858585858586
+Confusion Matrix
+[[29  0  6]
+ [ 4 24  0]
+ [ 4  0 32]]
+
+Results for Knn with k = 3
+Accuracy: 0.878787878788
+Confusion Matrix
+[[28  1  6]
+ [ 3 25  0]
+ [ 2  0 34]]
+Test run 4
+Results for Knn with k = 1
+Accuracy: 0.909090909091
+Confusion Matrix
+[[21  4  3]
+ [ 1 44  0]
+ [ 1  0 25]]
+
+Results for Knn with k = 2
+Accuracy: 0.919191919192
+Confusion Matrix
+[[24  3  1]
+ [ 2 43  0]
+ [ 2  0 24]]
+
+Results for Knn with k = 3
+Accuracy: 0.909090909091
+Confusion Matrix
+[[20  5  3]
+ [ 1 44  0]
+ [ 0  0 26]]
+Test run 5
+Results for Knn with k = 1
+Accuracy: 0.929292929293
+Confusion Matrix
+[[30  1  4]
+ [ 2 32  0]
+ [ 0  0 30]]
+
+Results for Knn with k = 2
+Accuracy: 0.919191919192
+Confusion Matrix
+[[33  0  2]
+ [ 3 31  0]
+ [ 3  0 27]]
+
+Results for Knn with k = 3
+Accuracy: 0.919191919192
+Confusion Matrix
+[[30  1  4]
+ [ 2 32  0]
+ [ 1  0 29]]
+Test run 6
+Results for Knn with k = 1
+Accuracy: 0.868686868687
+Confusion Matrix
+[[29  3  9]
+ [ 0 29  0]
+ [ 1  0 28]]
+
+Results for Knn with k = 2
+Accuracy: 0.888888888889
+Confusion Matrix
+[[34  1  6]
+ [ 2 27  0]
+ [ 2  0 27]]
+
+Results for Knn with k = 3
+Accuracy: 0.888888888889
+Confusion Matrix
+[[32  2  7]
+ [ 1 28  0]
+ [ 1  0 28]]
+Test run 7
+Results for Knn with k = 1
+Accuracy: 0.929292929293
+Confusion Matrix
+[[28  3  3]
+ [ 0 29  0]
+ [ 1  0 35]]
+
+Results for Knn with k = 2
+Accuracy: 0.919191919192
+Confusion Matrix
+[[30  2  2]
+ [ 0 29  0]
+ [ 4  0 32]]
+
+Results for Knn with k = 3
+Accuracy: 0.909090909091
+Confusion Matrix
+[[26  4  4]
+ [ 0 29  0]
+ [ 1  0 35]]
+Test run 8
+Results for Knn with k = 1
+Accuracy: 0.939393939394
+Confusion Matrix
+[[28  2  2]
+ [ 0 32  0]
+ [ 2  0 33]]
+
+Results for Knn with k = 2
+Accuracy: 0.949494949495
+Confusion Matrix
+[[30  1  1]
+ [ 1 31  0]
+ [ 2  0 33]]
+
+Results for Knn with k = 3
+Accuracy: 0.939393939394
+Confusion Matrix
+[[28  1  3]
+ [ 1 31  0]
+ [ 1  0 34]]
+Test run 9
+Results for Knn with k = 1
+Accuracy: 0.848484848485
+Confusion Matrix
+[[22  1 10]
+ [ 4 29  0]
+ [ 0  0 33]]
+
+Results for Knn with k = 2
+Accuracy: 0.888888888889
+Confusion Matrix
+[[27  0  6]
+ [ 5 28  0]
+ [ 0  0 33]]
+
+Results for Knn with k = 3
+Accuracy: 0.848484848485
+Confusion Matrix
+[[23  1  9]
+ [ 5 28  0]
+ [ 0  0 33]]
+Mean accuracy and variance over 10 runs with k = 1 0.89595959596 0.000898887868585
+
+Mean accuracy and variance over 10 runs with k = 2 0.89797979798 0.000764207733905
+
+Mean accuracy and variance over 10 runs with k = 3 0.89898989899 0.000714212835425
+Fold 1
+
+Results for Knn with k = 3
+Accuracy: 0.975
+Confusion Matrix
+[[12  1  0]
+ [ 0 14  0]
+ [ 0  0 13]]
+Fold 2
+
+Results for Knn with k = 3
+Accuracy: 0.95
+Confusion Matrix
+[[11  0  2]
+ [ 0 14  0]
+ [ 0  0 13]]
+Fold 3
+
+Results for Knn with k = 3
+Accuracy: 0.9
+Confusion Matrix
+[[10  2  1]
+ [ 0 14  0]
+ [ 1  0 12]]
+Fold 4
+
+Results for Knn with k = 3
+Accuracy: 0.923076923077
+Confusion Matrix
+[[11  2  0]
+ [ 1 12  0]
+ [ 0  0 13]]
+Fold 5
+
+Results for Knn with k = 3
+Accuracy: 0.769230769231
+Confusion Matrix
+[[ 9  0  4]
+ [ 4  9  0]
+ [ 1  0 12]]
+
+Mean accuracy and variance over 5-folds 0.903461538462 0.00513964497041
